@@ -12,5 +12,9 @@
     "postcss": "^8.2.1",
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.0.2"
+  },
+  "dependencies": {
+    "alpine-magic-helpers": "^1.0.0",
+    "gsap": "^3.6.0"
   }
 }
