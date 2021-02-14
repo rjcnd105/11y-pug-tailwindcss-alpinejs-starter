@@ -11,10 +11,6 @@ module.exports = function (eleventyConfig) {
     "./node_modules/alpinejs/dist/alpine.js": "./js/alpine.js",
   });
 
-  eleventyConfig.addShortcode("version", function () {
-    return String(Date.now());
-  });
-
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (
       process.env.ELEVENTY_PRODUCTION &&
