@@ -1,4 +1,4 @@
-# eleventy-pug-tailwindcss-alpinejs-starter by [rjcnd105]
+# 11y-pug-tailwindcss-alpinejs-starter by [rjcnd105]
 
 A starter repository showing how to build a website with the 
 [Eleventy](https://www.11ty.dev), 
