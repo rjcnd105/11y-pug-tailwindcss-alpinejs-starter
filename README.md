@@ -5,7 +5,7 @@ A starter repository showing how to build a website with the
 [Tailwind CSS](https://tailwindcss.com),
 [Alpine.js](https://github.com/alpinejs/alpine),
 [Pug](https://pugjs.org/language/attributes.html),
-[Esbuild](https://esbuild.github.io/)
+[esbuild](https://esbuild.github.io/)
 
 no bundler.
 
