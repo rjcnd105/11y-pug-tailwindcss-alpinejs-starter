@@ -1,8 +1,14 @@
-# eleventy-tailwindcss-alpinejs-starter by [Greg Wolanski](https://gregwolanski.com)
+# 11y-pug-tailwindcss-alpinejs-starter by [rjcnd105]
 
-A starter repository showing how to build a website with the [Eleventy](https://www.11ty.dev), [Tailwind CSS](https://tailwindcss.com), and [Alpine.js](https://github.com/alpinejs/alpine).
+A starter repository showing how to build a website with the 
+[Eleventy](https://www.11ty.dev), 
+[Tailwind CSS](https://tailwindcss.com),
+[Alpine.js](https://github.com/alpinejs/alpine),
+[Pug](https://pugjs.org/language/attributes.html),
+[Esbuild](https://esbuild.github.io/)
 
-Learn more on CSS-Tricks: [An Eleventy Starter with Tailwind CSS and Alpine.js](https://css-tricks.com/eleventy-starter-with-tailwind-css-alpine-js/)
+no bundler.
+
 
 ## Getting Started
 
@@ -44,16 +50,8 @@ npm run build
 npm run start
 ```
 
-## Author
 
-[Greg Wolanski](https://gregwolanski.com)
 
-## Troubleshooting
+changed from (eleventy-tailwindcss-alpinejs-starter by [Greg Wolanski](https://gregwolanski.com))
 
-[Windows](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter/issues/3)
 
-## License
-
-MIT
-
-See `LICENSE` for more information.
