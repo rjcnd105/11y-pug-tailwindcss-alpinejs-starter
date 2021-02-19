@@ -1,4 +1,3 @@
 export function hello() {
-    console.log('h')
-    alert(new Date().toString())
+    console.log('hello!')
 }
