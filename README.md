@@ -52,6 +52,6 @@ npm run start
 
 
 
-# changed from (eleventy-tailwindcss-alpinejs-starter by [Greg Wolanski](https://gregwolanski.com))
+changed from (eleventy-tailwindcss-alpinejs-starter by [Greg Wolanski](https://gregwolanski.com))
 
 
