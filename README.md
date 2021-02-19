@@ -15,7 +15,7 @@ no bundler.
 ### 1. Clone this repository
 
 ```
-git clone https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter.git my-website-name
+git clone https://github.com/rjcnd105/11y-pug-tailwindcss-alpinejs-starter.git my-website-name
 ```
 
 ### 2. Navigate to the directory
