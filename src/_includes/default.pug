@@ -1,5 +1,5 @@
 block var
-  - var __version = new Date().getTime()
+    - var __version = new Date().getTime()
 
 doctype html
 html(lang='ko')
@@ -13,7 +13,8 @@ html(lang='ko')
 
     block head
     link(rel='stylesheet' href='/style.css?v=' + __version)
-    script(src=`/js/alpine.js?v=${__version}`)
+    script(src=`/alpine.js?v=${__version}`)
+    script(src='./index.js')
 
     body
       block content
