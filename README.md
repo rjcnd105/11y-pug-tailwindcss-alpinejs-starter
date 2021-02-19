@@ -7,7 +7,7 @@ A starter repository showing how to build a website with the
 [Pug](https://pugjs.org/language/attributes.html),
 [esbuild](https://esbuild.github.io/)
 
-no bundler.
+
 
 
 ## Getting Started
