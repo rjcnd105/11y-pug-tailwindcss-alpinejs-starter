@@ -10,7 +10,11 @@
 
 
 
+body{
+  background-color: #666;
 
-.ddddd{
-  background-color: #fff;
+  h1{
+    font-size: 40px;
+    color: #fff;
+  }
 }
