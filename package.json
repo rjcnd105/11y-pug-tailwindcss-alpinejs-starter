@@ -3,7 +3,7 @@
     "start": "concurrently --kill-others \"eleventy --serve\" \"npm run js\" \"npm run css\" ",
     "js": "esbuild ./src/js/index.js --bundle --outfile=./_tmp/index.js --watch",
     "css": "postcss src/styles/tailwind.css --o ./_tmp/style.css --watch",
-    "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production postcss styles/tailwind.css --o _site/style.css && cleancss _site/style.css -o _site/style.css"
+    "build": "ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production postcss ./src/styles/tailwind.css --o ./dist/style.css && esbuild ./src/js/index.js --bundle --minify --outfile=./dist/index.js && cleancss ./dist/style.css -o ./dist/style.css"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
