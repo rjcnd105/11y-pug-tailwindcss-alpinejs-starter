@@ -1,10 +1,10 @@
-# eleventy-tailwindcss-alpinejs-starter by [Greg Wolanski]
+# eleventy-pug-tailwindcss-alpinejs-starter by [rjcnd105]
 
 A starter repository showing how to build a website with the 
 [Eleventy](https://www.11ty.dev), 
-[Tailwind CSS](https://tailwindcss.com)
-[Alpine.js](https://github.com/alpinejs/alpine)
-[Pug](https://pugjs.org/language/attributes.html)
+[Tailwind CSS](https://tailwindcss.com),
+[Alpine.js](https://github.com/alpinejs/alpine),
+[Pug](https://pugjs.org/language/attributes.html),
 [Esbuild](https://esbuild.github.io/)
 
 no bundler.
