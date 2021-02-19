@@ -5,7 +5,7 @@ A starter repository showing how to build a website with the
 [Tailwind CSS](https://tailwindcss.com),
 [Alpine.js](https://github.com/alpinejs/alpine),
 [Pug](https://pugjs.org/language/attributes.html),
-[Esbuild](https://esbuild.github.io/)
+[esbuild](https://esbuild.github.io/)
 
 no bundler.
 
@@ -15,7 +15,7 @@ no bundler.
 ### 1. Clone this repository
 
 ```
-git clone https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter.git my-website-name
+git clone https://github.com/rjcnd105/11y-pug-tailwindcss-alpinejs-starter.git my-website-name
 ```
 
 ### 2. Navigate to the directory
